@@ -1,7 +1,7 @@
 # [DRAFT] Open Liquid Handling Robot format
 
 ## Objective
-This project is space to discuss about the features, feasibility and implementation of an agnostic and open format for operating liquid handling robots. This format would let to a proposal standard for communication and operation one or more liquid handling robots, even from different vendors, so it would be possible to orchestrate them in the same way we do with modern computer servers houses.
+This project is space to discuss about the features, feasibility and implementation of an agnostic and open format for operating liquid handling robots. This format would let to a proposal standard for communication and operation one or more liquid handling robots, even from different vendors, so it would be possible to orchestrate them in the same way we do with modern computer servers.
 
 To that we would to ask some question from the community.
 - [Which kind of information/features would you like to have from this machines so you can operate them remotely?](https://github.com/isaacguerreir/open-liquid-handling/issues/1)
